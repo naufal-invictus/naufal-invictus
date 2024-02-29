@@ -1,0 +1,298 @@
+body {
+    background: linear-gradient(to bottom, #fff, #fff);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    overflow-x: hidden;
+  }
+
+@media screen and (max-width: 600px) {
+    nav {
+        background-color: #000000;
+        padding: 20px 16px;
+      }
+    .nav-container {
+      flex-direction: row;
+      align-items:center;
+      
+    }
+  
+    .nav-links {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+    }
+    .nav-links a{
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        font-family: sans-serif;
+    }
+    .nav-links li {
+        margin-top: 20px;
+        margin-right: 20px;
+        
+      margin-bottom: 5px;
+    }
+    .nav-logo {
+        color: white;
+    text-decoration: none;
+
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+    }
+    .nav-logo:hover{
+        color: rgb(149, 147, 255);
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .jumbotron {
+        border-top: 4px dashed white;
+        margin-top: px;
+        background-image:url("/assets/img/UN.png");/* Replace with your image URL */
+        color: white;
+        text-align: center;
+        
+        font-family: "Poppins";
+        font-weight: bolder;
+        padding: 0px 0px; /* Adjust as needed */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+      .jumbotron h2 {
+        width: 60px;
+        height: 20px;
+        border-bottom: 8px dotted rgb(255, 255, 255);
+        text-align: right;
+      }
+      .jumbotron h3 {
+        text-align: left;
+      }
+      .jumbotron h4 {
+        margin-top: -10px;
+        margin-left: 2px;
+        width: 60px;
+        height: 20px;
+        border-bottom: 8px dotted rgb(255, 255, 255);
+      }
+      .Poppins {
+        font-family: "Poppins";
+        text-align: center;
+        font-size: 20px;
+      
+      }
+      .jumbotron h1 {
+        line-height: 2px;
+        font-size: 30px;
+
+        text-align: left; /* Align left */
+      }
+      .jumbotron h3 {
+        line-height: 2px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: left; /* Align left */
+      }
+
+      
+      
+      .jumbotron p {
+        border-left: 6px double rgb(255, 255, 255);
+        padding: 10px;
+        font-size: 1em;
+        margin-bottom: 30px;
+        text-align: left; /* Align left */
+        font-family: "Public Sans";
+        text-transform: uppercase;
+      }
+
+      .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around; /* Adjust as needed */
+        align-items: stretch; /* Adjust as needed */
+      }
+      
+      .flex-item {
+        flex: 1; /* Adjust as needed */
+        min-width: 200px; /* Adjust as needed */
+        margin: 10px; /* Adjust as needed */
+        box-sizing: border-box;
+      }
+      .flex-item h3 span {
+        border-left: 8px solid black;
+        padding-left: 20px;
+      }
+      .flex-item h2 {
+        background-color: black;
+        color: white;
+        padding: 2px;
+      }
+      .about {
+        text-align: left;
+        color: black;
+      }
+      /* Example styles for demonstration purposes */
+      .flex-item {
+        color: rgb(0, 0, 0);
+        padding: 20px;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      .button-container {
+        display: flex;
+        align-content: center;
+      }
+      
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin: 0 10px;
+        text-decoration: none;
+        color: #fff;
+        font-size: 12px;
+        font-weight: bold;
+        border-radius: 5px;
+        background-color: #3498db;
+        overflow: hidden;
+        position: relative;
+        transition: background-color 0.3s ease;
+      }
+      
+      .button:hover {
+        background-color: #38B6FF;
+      }
+      
+      .button:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(0deg, #3498db, #2980b9);
+        transform: scaleX(0);
+        transform-origin: 0 50%;
+        transition: transform 0.3s ease;
+      }
+      
+      .button:hover:before {
+        transform: scaleX(0.1);
+      }
+      .gallery {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        height: auto;
+        text-align: center;
+        background-color: #fff;
+        overflow-x: auto;
+        overflow-y: hidden;
+      
+      }
+      
+      .gallery img {
+        margin: 10px;
+        max-width: 80%;
+        max-height: 100px;
+        height: auto;
+        border-radius: 8px 8px 0 0;
+      
+      }
+      .gallery h2 {
+        text-align: center;
+        margin-top: 20px;
+      }
+      .image-card {
+        margin-bottom: 10px;
+        flex: 0 0 auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.8s ease;
+      }
+      
+      .image-card:hover {
+        transform: scale(1.1);
+      }
+      
+      .text {
+        padding: 15px;
+        text-align: center;
+        font-family: unisans;
+        background-color: #f8f8f8;
+        border-radius: 0 0 8px 8px;
+      }
+
+      button {
+        background-color: #4caf50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        background-color: #45a049;
+      }
+      .overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+      }
+      
+      .popup {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 8px;
+        width: 90%;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+      }
+      .popup h2 {
+        padding: 8px;
+        color: #ffffff;
+        background-color: #000000;
+      }
+      
+      .popup i {
+        color: #555;
+        margin-bottom: 20px;
+        font-size: 16px;
+      }
+      
+      .btn-close-popup {
+        background-color: #07052b;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      
+      .btn-close-popup:hover {
+        background-color: #1a3a6b;
+      }
+    
+      
+    
+  }
+  
