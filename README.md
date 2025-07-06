@@ -1,81 +1,74 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russian Flag" width="100%" height="200"/>
+  <img src="https://i.ibb.co/nNddGVS6/Untitled-design.jpg" alt="Russian Banner" width="100%" />
 </div>
 
 ---
 
-<h1 align="center">🇷🇺 Привет, Я Naufalicious! 🇷🇺</h1>
+## 🇷🇺 Привет, Comrade! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Frontend+Developer;WhatsApp+Bot+Creator;Computer+Science+Student;Russian+Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>💭 <em>"Knowledge is power, but character is more."</em></h3>
-</div>
+• **Привет, Comrade! I am Naufalicious** 🚀
+• **Motto:** *"Knowledge is power, but character is more."*
 
 ---
 
-## 🚀 О себе | About Me
+## 👨‍💻 About This Russian Nerd
 
-**Добро пожаловать!** Я студент **Техники Информатики** с большой страстью к созданию **WhatsApp ботов** и разработке веб-приложений! Вдохновляюсь российскими достижениями в области технологий и космоса - от **Спутника** до современных IT-инноваций! 🛰️
-
-### 👨‍💻 Роли и Опыт:
-- 🎯 **Junior Frontend Web Developer**
-- 💻 **Computer Science Student** 
-- 🔧 **IT Support Specialist**
-- 🖨️ **Printing Operator**
-
-### 🏛️ Активность в Сообществах:
-- 🛡️ **Moderator** - Komunitas Ukwuwah Hijriah
-- 👑 **Admin** - La Maison Typology
-- 🧠 **Admin** - Personality Insight  
-- ⚔️ **Admin** - Medievalist Indonesia
+• **Status:** Informatics Engineering Student 🎓
+• **Core Passions:**
+  - 🤖 Crafting WhatsApp Bots
+  - 🌐 Building Fun Web Applications
+• **Tech Focus:**
+  - 💻 Junior Frontend Web Developer
+  - 🧠 Computer Science Enthusiast  
+  - 🔧 IT Support Specialist
+• **Community Engagement:**
+  - 🛡️ **Admin:** Ukhuwah Hijrah Community
+  - 👑 **Admin:** La Maison Typology
+  - 🧠 **Admin:** Personality Insight
+  - ⚔️ **Admin:** Medievalist Indonesia
+• **Prior Experience:** Printing Operator 🖨️
+• **Russian Vibe Statement:** A true admirer of Russian ingenuity and strength - from Missiles to Sputnik's legacy, inspired by Pravda's precision and the power of Ballistic innovation 🚀
 
 ---
 
-## 🛠️ Технологический Арсенал | Tech Arsenal
+## 🛠️ My Arsenal
 
-<div align="center">
-
-### 💻 Языки Программирования | Programming Languages
+### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Веб-разработка | Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0052CC?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-DC143C?style=for-the-badge&logo=react&logoColor=white)
+### 🌐 Web Development
+• **Frontend Development** 🎨
 
-### 🤖 Специализация | Specialization
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-0052CC?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networking-DC143C?style=for-the-badge&logo=cisco&logoColor=white)
+### 🎯 Specializations  
+• **WhatsApp Bot Creation** 🤖
+• **Computer Networking** 🌐
 
-### 🔬 Изучаю | Currently Learning
-![AI](https://img.shields.io/badge/Generative_AI-0052CC?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
+### 🔬 Current Intel (Learning/Exploring)
+• **AI Generative** 🧠
 
 ---
 
-## 💡 Проекты и Интересы | Projects & Interests
+## ⚡ Conceptual Russian Tools
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
-### 🤖 **WhatsApp Bot Innovation**
-Создаю инновационных **WhatsApp ботов** с продвинутым функционалом! Вдохновляюсь российским подходом к автоматизации и эффективности.
-
-### 🌐 **Web Development**  
-Разрабатываю функциональные и увлекательные веб-приложения, используя современные технологии и лучшие практики.
-
-### 🧠 **AI & Future Tech**
-Глубоко изучаю **Generative AI** для будущих проектов. Россия всегда была пионером в области технологий - от первого спутника до современного ИИ!
+• **🔫 AK-47:** Precision in code - reliable, efficient, never jams
+• **🚀 Katyusha:** Rapid deployment - launching projects with speed
+• **🛰️ Sputnik:** Launching new ideas into orbit
+• **🚗 T-34:** Robust and reliable systems - built to last
+• **💥 Nuke:** Impactful solutions that change everything  
+• **📰 Pravda:** Seeking the truth in data and algorithms
 
 ---
 
-## 📊 GitHub Статистика | GitHub Stats
+## 🎯 Strategic Operations & Interests
+
+• **Primary Mission:** Developing innovative WhatsApp Bots 🤖
+• **Secondary Mission:** Crafting functional & engaging web apps 🌐
+• **Future Operations:** Deep dive into AI Generative for next-gen projects 🚀
+
+---
+
+## 📊 Battle Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naufalicious&show_icons=true&theme=radical&title_color=DC143C&icon_color=0052CC&text_color=white&bg_color=000000" alt="GitHub Stats" />
@@ -87,16 +80,10 @@
 
 ---
 
-## 🤝 Давайте Подключимся! | Let's Connect!
+## 🤝 Connect with the Comrade
 
-<div align="center">
-
-### 🌐 **Мои Ссылки | My Links**
-
-[![Facebook](https://img.shields.io/badge/Facebook-DC143C?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nawfal.sayf.al.aswad)
-[![Website](https://img.shields.io/badge/Website-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naufalicious.vercel.app)
-
-</div>
+• **Facebook:** [Nawfal Sayf Al-Aswad](https://facebook.com/nawfal.sayf.al.aswad) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
+• **Website:** [naufalicious.vercel.app](https://naufalicious.vercel.app) ![Website](https://img.shields.io/badge/Website-DC143C?style=flat&logo=google-chrome&logoColor=white)
 
 ---
 
@@ -105,12 +92,6 @@
 </div>
 
 <div align="center">
-  <h3>🇷🇺 Спасибо за визит! | Thanks for visiting! 🇷🇺</h3>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Russian Bear GIF"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ and inspired by Russian innovation 🚀</sub>
+  <h3>🇷🇺 До свидания, Comrade! 🇷🇺</h3>
+  <sub>Made with ❤️ and Russian engineering spirit 🚀</sub>
 </div>
