@@ -85,7 +85,7 @@
 | ![Admin1](https://img.shields.io/badge/Admin-Ukhuwah_Hijrah_Community-DC143C?style=for-the-badge&logo=users&logoColor=white) | ![Mission1](https://img.shields.io/badge/Primary_Mission-WhatsApp_Bots-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white) |
 | ![Admin2](https://img.shields.io/badge/Admin-La_Maison_Typology-0052CC?style=for-the-badge&logo=crown&logoColor=white) | ![Mission2](https://img.shields.io/badge/Secondary_Mission-Web_Applications-0052CC?style=for-the-badge&logo=globe&logoColor=white) |
 | ![Admin3](https://img.shields.io/badge/Admin-Personality_Insight-ffffff?style=for-the-badge&logo=brain&logoColor=DC143C) | ![Mission3](https://img.shields.io/badge/Future_Operations-AI_Generative-ffffff?style=for-the-badge&logo=robot&logoColor=DC143C) |
-| ![Admin4](https://img.shields.io/badge/Admin-Medievalist_Indonesia-DC143C?style=for-the-badge&logo=shield&logoColor=white) | |
+| ![Admin4](https://img.shields.io/badge/Mod-Medievalist_Indonesia-DC143C?style=for-the-badge&logo=shield&logoColor=white) | |
 
 </div>
 
