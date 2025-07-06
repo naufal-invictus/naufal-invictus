@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/nNddGVS6/Untitled-design.jpg" alt="Russian Banner" width="100%" />
+  <img src="https://i.ibb.co/Kj1ZgjvD/Untitled-design.jpg" alt="Russian Banner" width="100%" />
 </div>
 
 ---
