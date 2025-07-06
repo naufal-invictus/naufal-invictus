@@ -45,9 +45,9 @@
 
 | **STATUS** | **FOCUS** | **SPECIALIZATION** |
 |:---:|:---:|:---:|
-| ![Status](https://img.shields.io/badge/Informatics-Engineering_Student-DC143C?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Junior-Frontend_Developer-0052CC?style=for-the-badge&logoColor=white) | ![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot_Creation-ffffff?style=for-the-badge&logo=whatsapp&logoColor=DC143C) |
-| ![Motto](https://img.shields.io/badge/Knowledge_is_power-but_character_is_more-DC143C?style=for-the-badge&logoColor=white) | ![CS](https://img.shields.io/badge/Computer-Science_Enthusiast-0052CC?style=for-the-badge&logoColor=white) | ![Network](https://img.shields.io/badge/Computer-Networking-ffffff?style=for-the-badge&logo=cisco&logoColor=DC143C) |
-| | ![IT](https://img.shields.io/badge/IT-Support_Specialist-0052CC?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Frontend-Development-ffffff?style=for-the-badge&logo=code&logoColor=DC143C) |
+| ![Status](https://img.shields.io/badge/Informatics-Engineering_Student-DC143C?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Junior-Frontend_Developer-0052CC?style=for-the-badge&logoColor=white) |  ![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot_Creation-ffffff?style=for-the-badge&logo=whatsapp&logoColor=DC143C) |
+| ![Motto](https://img.shields.io/badge/Knowledge_is_power-but_character_is_more-DC143C?style=for-the-badge&logoColor=white) | ![CS](https://img.shields.io/badge/Computer-Science_Enthusiast-0052CC?style=for-the-badge&logoColor=white) | ![Network](https://img.shields.io/badge/Computer-Networking-ffffff?style=for-the-badge&logo=cisco&logoColor=DC143C)|
+|![Russian Tank](https://img.shields.io/badge/Russian_Motto-No_Step_Back!-DC143C?style=for-the-badge&logoColor=white)| ![IT](https://img.shields.io/badge/IT-Support_Specialist-0052CC?style=for-the-badge&logoColor=white) | ![Frontend](https://img.shields.io/badge/Frontend-Development-ffffff?style=for-the-badge&logo=code&logoColor=DC143C) |
 
 </div>
 
