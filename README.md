@@ -1,33 +1,46 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Russian Flag" width="100%" height="120" />
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="180" height="98" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design" width="180" height="100" >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="180" height="98" >
+
 </div>
 
 ---
 
-<h1 align="center">Привет, Comrade! I am Naufalicious</h1>
+<h1 align="center">Привет, Comrade! I am Nawfal</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Frontend+Developer;WhatsApp+Bot+Creator;Computer+Science+Student;Russian+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
-
+<div align ="center">
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="80" height="40" >
+</div>
+<br>
 <div align="center">
 
-<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="80" height="40" />
-<img src="https://i.ibb.co/MDXG15FG/T-15-Armata.png" alt="T-15 Armata" width="80" height="40" />
-<img src="https://i.ibb.co/twmScz41/T90.png" alt="T90" width="80" height="40" />
-<img src="https://i.ibb.co/kV9FpYtD/T-90-Omsk-VTTV-exhibition1999.png" alt="T-90 Omsk" width="80" height="40" />
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/MDXG15FG/T-15-Armata.png" alt="T-15 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/twmScz41/T90.png" alt="T90" width="20%" height="20%"40" />
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/kV9FpYtD/T-90-Omsk-VTTV-exhibition1999.png" alt="T-90 Omsk" width="20%" height="20%" />
 
-<img src="https://i.ibb.co/dwDCjqsy/VPK7829-Bumerang.png" alt="VPK7829 Bumerang" width="80" height="40" />
-<img src="https://i.ibb.co/8DYVQKjT/2-S19-Mtsa-S-ETA.png" alt="2S19 Msta-S" width="80" height="40" />
-<img src="https://i.ibb.co/xtHbg2dj/9K35.png" alt="9K35" width="80" height="40" />
-<img src="https://i.ibb.co/vvZK1bMM/favpng-a56c3346bb721aca9e8777a1fea2d1d6.png" alt="Tank" width="80" height="40" />
+<img src="https://i.ibb.co/dwDCjqsy/VPK7829-Bumerang.png" alt="VPK7829 Bumerang" width="20%" height="20%"/>
+<img src="https://i.ibb.co/8DYVQKjT/2-S19-Mtsa-S-ETA.png" alt="2S19 Msta-S" width="20%" height="20%"/>
+<img src="https://i.ibb.co/xtHbg2dj/9K35.png" alt="9K35" width="20%" height="20%" /> <br>
+<img src="https://i.ibb.co/vvZK1bMM/favpng-a56c3346bb721aca9e8777a1fea2d1d6.png" alt="Tank" width="10%" height="10%"/>
+<img src="https://i.ibb.co/vvZK1bMM/favpng-a56c3346bb721aca9e8777a1fea2d1d6.png" alt="Tank" width="10%" height="10%"/>
+<img src="https://i.ibb.co/vvZK1bMM/favpng-a56c3346bb721aca9e8777a1fea2d1d6.png" alt="Tank" width="10%" height="10%"/>
+
 
 </div>
 
 ---
-
+<div align ="center">
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="80" height="40" >
+</div>
+<br>
 <div align="center">
 
 | **STATUS** | **FOCUS** | **SPECIALIZATION** |
@@ -39,7 +52,10 @@
 </div>
 
 ---
-
+<div align ="center">
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="80" height="40" >
+</div>
+<br>
 <div align="center">
 
 | **PROGRAMMING LANGUAGES** | **CURRENT INTEL** |
@@ -54,24 +70,11 @@
 
 ---
 
-<div align="center">
 
-<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="60" height="30" />
-
-| **RUSSIAN TOOLS CONCEPT** |
-|:---:|
-| ![AK47](https://img.shields.io/badge/AK47-Precision_in_Code-DC143C?style=for-the-badge&logoColor=white) |
-| ![Katyusha](https://img.shields.io/badge/Katyusha-Rapid_Deployment-0052CC?style=for-the-badge&logoColor=white) |
-| ![Sputnik](https://img.shields.io/badge/Sputnik-Launching_Ideas-ffffff?style=for-the-badge&logoColor=DC143C) |
-| ![T34](https://img.shields.io/badge/T34-Robust_Systems-DC143C?style=for-the-badge&logoColor=white) |
-| ![Nuke](https://img.shields.io/badge/Nuke-Impactful_Solutions-0052CC?style=for-the-badge&logoColor=white) |
-| ![Pravda](https://img.shields.io/badge/Pravda-Truth_in_Data-ffffff?style=for-the-badge&logoColor=0052CC) |
-
-<img src="https://i.ibb.co/twmScz41/T90.png" alt="T90" width="60" height="30" />
-
+<div align ="center">
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
 </div>
-
----
+<br>
 
 <div align="center">
 
@@ -88,9 +91,9 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/dwDCjqsy/VPK7829-Bumerang.png" alt="VPK7829 Bumerang" width="70" height="35" />
-<img src="https://i.ibb.co/8DYVQKjT/2-S19-Mtsa-S-ETA.png" alt="2S19 Msta-S" width="70" height="35" />
-<img src="https://i.ibb.co/xtHbg2dj/9K35.png" alt="9K35" width="70" height="35" />
+<img src="https://i.ibb.co/dwDCjqsy/VPK7829-Bumerang.png" alt="VPK7829 Bumerang" width="15%" height="20%"/>
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/xtHbg2dj/9K35.png" alt="9K35" width="17%" height="20%" /> <br>
 
 </div>
 
@@ -109,12 +112,40 @@
 ---
 
 <div align="center">
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/MDXG15FG/T-15-Armata.png" alt="T-15 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/twmScz41/T90.png" alt="T90" width="20%" height="20%"40" />
+<img src="https://i.ibb.co/4RvTDPNN/T-14-Armata.png" alt="T-14 Armata" width="20%" height="20%" />
+<img src="https://i.ibb.co/kV9FpYtD/T-90-Omsk-VTTV-exhibition1999.png" alt="T-90 Omsk" width="20%" height="20%" />
 
-<img src="https://i.ibb.co/kV9FpYtD/T-90-Omsk-VTTV-exhibition1999.png" alt="T-90 Omsk" width="60" height="30" />
-<img src="https://i.ibb.co/vvZK1bMM/favpng-a56c3346bb721aca9e8777a1fea2d1d6.png" alt="Tank" width="60" height="30" />
+<img src="https://i.ibb.co/dwDCjqsy/VPK7829-Bumerang.png" alt="VPK7829 Bumerang" width="20%" height="20%"/>
+<img src="https://i.ibb.co/8DYVQKjT/2-S19-Mtsa-S-ETA.png" alt="2S19 Msta-S" width="20%" height="20%"/>
+<img src="https://i.ibb.co/xtHbg2dj/9K35.png" alt="9K35" width="20%" height="20%" /> <br>
+</div>
+<br>
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naufalicious&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Made with Love](https://img.shields.io/badge/Made_with-Russian_Engineering_Spirit-DC143C?style=for-the-badge&logoColor=white)
+</div>
+<div align="center">
 
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
+    <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
+    <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
+    <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
+    <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
+    <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;" width="60" height="29" >
+  <img src="https://i.ibb.co/SDNxVJJH/Untitled-design.jpg" alt="Untitled-design"  width="60" height="30"  >
+  <img src="https://i.ibb.co/jPwPcWy6/Flag-of-Russia-1.jpg" alt="Flag of Russia 1" style="border: 1px solid black;"  width="60" height="29"  >
 </div>
